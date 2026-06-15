@@ -38,7 +38,6 @@ The project covers the full data science pipeline: from data cleaning and featur
 ## Dataset
 
 - **Source:** [Kaggle — Real or Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
-- **Size:** 17,880 rows → 17,599 after duplicate removal
 - **Features:** 18 columns including job title, description, company profile, requirements
 - **Target:** `fraudulent` (0 = real, 1 = fake)
 
